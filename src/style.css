@@ -36,7 +36,7 @@ article{
 article img{
     margin-block-start: 3rem;
 }
-article h1{
+article h2{
     color: var(--Transparent-white);
     text-transform: uppercase;
     font-weight: 700;
